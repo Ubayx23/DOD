@@ -1,2 +1,2 @@
 # DOD
-cs250 first class
+# Teammates - Ubay, Rory, Deandrea, & Gabriel
