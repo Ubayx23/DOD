@@ -1,2 +1,2 @@
 # DOD
-# Teammates - Ubay, Rory, Deandrea, & Gabriel
+# Teammates - Ubay, Rory, Deandre, & Gabriel
